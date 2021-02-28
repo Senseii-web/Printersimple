@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"The Printer"
+	"version"	"1.3.0"
+	"up_date"	"2019"
+	"author_name"	"Ahshop & Crap-Head"
+	"author_url"	"https://www.gmodstore.com/users/crap-head"
+	"info"		"The Printer is a simple but a very useful and essential addon to have on your darkrp server, as it gives new and more controlled way of printer farming, by providing a whole list of features, that creates a new form for unique role-play, that needs to be experienced for you to understand."
+}

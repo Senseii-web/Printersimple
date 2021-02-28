@@ -1,0 +1,14 @@
+Simply just drop the folder the_printer into addons and do a full server restart.
+Then add the workshop content below into your servers workshop collection!
+
+Workshop Content Link:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1837616035
+
+THE CONTENT WAS UPDATED IN THE LATEST VERSION (1.2.1). PLEASE REMEMBER TO DELETE AND UNSUBSCRIBE FROM THE OLD WORKSHOP AND SUBSCRIBE TO THE NEW ONE ABOVE!
+THE CONTENT WAS UPDATED IN THE LATEST VERSION (1.2.1). PLEASE REMEMBER TO DELETE AND UNSUBSCRIBE FROM THE OLD WORKSHOP AND SUBSCRIBE TO THE NEW ONE ABOVE!
+THE CONTENT WAS UPDATED IN THE LATEST VERSION (1.2.1). PLEASE REMEMBER TO DELETE AND UNSUBSCRIBE FROM THE OLD WORKSHOP AND SUBSCRIBE TO THE NEW ONE ABOVE!
+
+How to create a new printer (similar process):
+https://www.youtube.com/watch?v=9tdY4hlnvsA
+
+If you have any issues with the script, please open a SUPPORT TICKET via gmodstore.com
